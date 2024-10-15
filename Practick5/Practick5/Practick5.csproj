@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3D4F262B-B274-4F74-A4AE-B7C3EE2F634B}</ProjectGuid>
+    <ProjectGuid>{B5A89430-0D2C-4A08-B635-9F13E9A4B0A9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Practik3</RootNamespace>
-    <AssemblyName>Practik3</AssemblyName>
+    <RootNamespace>Practick5</RootNamespace>
+    <AssemblyName>Practick5</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="RoomLibrary">
+      <HintPath>..\..\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />

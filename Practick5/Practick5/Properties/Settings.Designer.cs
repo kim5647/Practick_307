@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Practik3.Properties
+namespace Practick5.Properties
 {
 
 
