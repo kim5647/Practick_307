@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Practick5
+namespace Practicheskay2_307k
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

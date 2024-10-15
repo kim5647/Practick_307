@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Practick5.Properties
+namespace Practicheskay2_307k.Properties
 {
 
 

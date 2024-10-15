@@ -1,0 +1,14 @@
+﻿<Window x:Class="Practicheskay2_307k.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practicheskay2_307k"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button" Content="Не нажимать!" HorizontalAlignment="Center" Margin="0,203,0,0" VerticalAlignment="Top" Height="65" Width="146" Click="Button_Click" Background="Red"/>
+        <Label x:Name="NoClic" HorizontalAlignment="Center" Margin="0,133,0,0" VerticalAlignment="Top" Height="48" Width="254" FontSize="20" HorizontalContentAlignment="Center" Content="Добрый день"/>
+
+    </Grid>
+</Window>

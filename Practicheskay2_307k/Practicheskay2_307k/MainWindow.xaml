@@ -1,0 +1,15 @@
+﻿<Window x:Class="Practicheskay2_307k.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practicheskay2_307k"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="1 window" HorizontalAlignment="Left" Margin="51,76,0,0" VerticalAlignment="Top" Height="35" Width="103" Click="Button_Click"/>
+        <Button Content="2 window" HorizontalAlignment="Left" Margin="325,76,0,0" VerticalAlignment="Top" Height="35" Width="103" Click="Button_Click_1"/>
+        <Button Content="3 window" HorizontalAlignment="Left" Margin="594,76,0,0" VerticalAlignment="Top" Height="35" Width="103" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
